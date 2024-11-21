@@ -1,0 +1,7 @@
+### SERVICE A - Teste CONSULTAR CEP
+GET http://localhost:8080/cep?cep=72630313
+Accept: application/json
+
+### SERVICE B -
+GET http://localhost:8081/clima?cep=72630313
+Accept: application/json
